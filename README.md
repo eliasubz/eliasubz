@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 
 
 - 🌱 I’m currently learning Datascience and Artificial Intelligence in Maastricht !!!
 - ⚡ Fun fact: I like AI
+- 🔭 I’m currently working on an app that lets you input pictures of an animal. These pictures will then be used to LoRa finetune a stable diffusion model to generate pictures, which can then be combined into a video. 
 
 <!--
 **eliasubz/eliasubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
