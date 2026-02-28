@@ -1,18 +1,7 @@
 ### Hi there 
 
-- 🌱 I’m currently learning Datascience and Artificial Intelligence in Maastricht !!!
-- ⚡ Fun fact: I like AI
-- 🔭 I’m currently working on an app that lets you input pictures of an animal. These pictures will then be used to LoRa finetune a stable diffusion model to generate pictures, which can then be combined into a video. 
+My name is Elias Leal.
 
-<!--
-**eliasubz/eliasubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Masters Student at UPC and doing an Internship at Allianz Technology working on the deployment and safety of AI bots. Previously I studied Data Science and AI in Maastricht University. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+I'm interested in efficient language modeling, especifically linear RNNs as alternatives for transformers (DeltaNet, Mamba and RWKV models). During my Master im working projects like multi-class object detection sentence similarity prediction with classic pre-2015 nlp features and usual data analysis. 
