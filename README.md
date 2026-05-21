@@ -8,6 +8,7 @@ I am an AI Masters Student at UPC.
 LLMs: 
 - [Classic Transformer Decoder](https://github.com/eliasubz/transformer)
 - [Experiments with RNNs alternatives to attention](https://github.com/eliasubz/Tameing-LLMs)
+- [Addition Transformer, implemented in jax by hand](https://github.com/eliasubz/jax-transformer)
 
 <!---Computer Vision:
 - [Computer Vision Lab]()
