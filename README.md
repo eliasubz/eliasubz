@@ -1,6 +1,6 @@
 ### Hi there 
 
-My name is Elias Leal, I'm doing my MSc in AI. I'm mostly interested in training smart AI architectures, parallel computing and low-level ML compiler work.
+My name is Elias Leal, I'm doing my MSc in AI. I'm mostly interested in modern AI Architectures, parallel computing and ML compiler work.
 
 ### Projects 
 AI:
