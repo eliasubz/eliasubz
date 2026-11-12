@@ -1,19 +1,23 @@
 ### Hi there 
 
-My name is Elias Leal.
+My name is Elias Leal, I'm doing my MSc in AI. I'm mostly interested in training smart AI architectures, parallel computing and low-level ML compiler work.
 
-I am an AI Masters Student at UPC.
+### Projects 
+AI:
+- [AI methods: DeepSeek MLA, RoPE/YaRN, flash attention kernel](https://github.com/eliasubz/AI)
 
-### Some Projects 
+   
 LLMs: 
 - [Classic Transformer Decoder](https://github.com/eliasubz/transformer)
 - [Experiments with RNNs alternatives to attention](https://github.com/eliasubz/Tameing-LLMs)
-- [Addition Transformer from scratch in jax](https://github.com/eliasubz/jax-transformer)
+- [Addition Transformer from scratch in JAX](https://github.com/eliasubz/jax-transformer)
 
-<!---Computer Vision:
-- [Computer Vision Lab]()
---->
+Computer Vision:
+- [Optimized SDXL-Dreambooth finetuning for RunPod](https://github.com/eliasubz/)
 
+
+<!-- 
 Rust:
 - [Solana_experiment](https://github.com/eliasubz/Solana_experiment)
 - [GRRS-CLI in Rust](https://github.com/eliasubz/Grrs-CLI)
+-->
